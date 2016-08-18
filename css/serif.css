@@ -4,6 +4,12 @@
  *
  * This theme is Copyright (C) 2012-2013 Owen Versteeg, http://owenversteeg.com - it is MIT licensed.
  */
+
+ .reveal img.profile-pic {
+    max-width:400px;
+    height: auto;
+ }
+
 .reveal a {
   line-height: 1.3em; }
 
